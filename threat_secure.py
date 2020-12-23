@@ -22,6 +22,15 @@ class ThreatSecure:
     pass
 
 
+def parse_args(arguments):
+    """Parse and set arguments.
+
+    :param arguments: argument list => sysv[1:]
+    :return: dict() object
+    """
+    pass
+
+
 def main(arguments):
     """Main function.
     """
